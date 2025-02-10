@@ -1,0 +1,12 @@
+# Notes
+
+1. Using LLM generate DDL to create and store data from spreadsheet to a table.
+2. Using query in natural language get queries form user and convert it into sql to query and present data to user
+
+MVP 1
+
+using the spread sheet header, create DDL
+and use python code to insert the data to sqlite server
+
+use another function to sent raw query from LLM to fetch result
+
